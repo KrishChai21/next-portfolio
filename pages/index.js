@@ -60,7 +60,7 @@ function HomePage() {
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 max-w-md mx-auto md:text-xl dark:text-white">
               Freelancer providing services for programming and design. Join me
-              down below and let's get cracking!
+              down below and let&#39;s get cracking!
             </p>
           </div>
           {/* Icons */}
@@ -86,7 +86,7 @@ function HomePage() {
             <h3 className="text-3xl py-1">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-white">
               Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for{" "}
+              developer, I&#39;ve done remote work for{" "}
               <span className="text-teal-500">agencies</span>, consulted for{" "}
               <span className="text-teal-500">startups</span> and collaborated
               with talented people to create digital products for both business
@@ -126,7 +126,7 @@ function HomePage() {
                 project.
               </p>
               <h4 className="py-4 text-teal-600">
-                Technologies I've worked with:
+                Technologies I&#39;ve worked with:
               </h4>
               <p className="text-gray-800 py-1 dark:text-white">HTML5, CSS3</p>
               <p className="text-gray-800 py-1 dark:text-white">
@@ -164,9 +164,9 @@ function HomePage() {
           <div>
             <h3 className="text-3xl py-1">Portfolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-white">
-              I've worked on numerous projects as a freelance developer both for
-              startups and small agencies to Fortune 500 companies. Take a look
-              below at a showcase of some of my best work!
+              I&#39;ve worked on numerous projects as a freelance developer both
+              for startups and small agencies to Fortune 500 companies. Take a
+              look below at a showcase of some of my best work!
             </p>
           </div>
 
